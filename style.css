@@ -47,10 +47,14 @@ nav ul {
 nav li {
   
   display: inline-block;
-  margin-left: 60px;
+  margin-left: 70px;
   padding-top: 23px;
   text-decoration: none;
   position: relative;
+}
+.nav-link {
+    display: block;
+    padding: 0.3rem 0.5rem !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
