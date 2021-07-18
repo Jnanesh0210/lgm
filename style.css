@@ -61,10 +61,6 @@ nav a {
   font-size: 14px;
 }
 
-.nav-link {
-    display: block;
-    padding: 0.3rem 0.5rem !important;
-}
 
 navbar-dark .navbar-brand {
   color: rgb(194, 37, 37);
