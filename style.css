@@ -25,11 +25,6 @@ header::after {
   clear: both;
 }
 
-.logo {
-  float: left;
-  padding: 10px 0;
-}
-
 nav {
   float: right;
 }
@@ -51,10 +46,6 @@ nav li {
   padding-top: 23px;
   text-decoration: none;
   position: relative;
-}
-.nav-link {
-    display: block;
-    padding: 0.2rem 0.5rem !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
