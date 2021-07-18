@@ -43,7 +43,7 @@ nav li {
   
   display: inline-block;
   margin-left: 70px;
-  padding-top: 23px;
+  padding-top: 18px;
   text-decoration: none;
   position: relative;
 }
@@ -57,7 +57,13 @@ nav a {
   text-transform: uppercase;
   font-size: 14px;
 }
-.navbar-dark .navbar-brand {
+
+.nav-link {
+    display: block;
+    padding: 0.3rem 0.5rem !important;
+}
+
+navbar-dark .navbar-brand {
   color: rgb(194, 37, 37);
 }
 nav a:hover {
