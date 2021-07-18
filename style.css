@@ -97,12 +97,10 @@ nav a:hover {
      font-size: 25px;
     }
     .carousel-caption h2 { 
-	    
-     padding-top: 56px !important;     
-      margin-bottom: 0.5rem !important; 
+      margin-bottom: 2rem !important; 
       font-family: sans-serif;
       font-weight: 50 !important;
-      font-size: 42px;
+      font-size: 45px;
 
     }  
     .btspace {
