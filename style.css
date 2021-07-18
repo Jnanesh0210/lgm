@@ -28,6 +28,9 @@ header::after {
 nav {
   float: right;
 }
+.navbar-brand { 
+	margin-right=0.5rem !important
+}
 
 nav ul {
   margin: 0;
