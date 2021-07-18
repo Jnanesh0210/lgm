@@ -91,17 +91,17 @@ nav a:hover {
    }
 
    .carousel-caption p {
-     margin-bottom: 6rem !important; 
+     margin-bottom: 3rem !important; 
      font-family: sans-serif;
      font-weight: 50 !important;
      font-size: 25px;
     }
     .carousel-caption h2 {
-      margin-top: 1rem !important;     
+      margin-top: 3rem !important;     
       margin-bottom: 0.5rem !important; 
       font-family: sans-serif;
       font-weight: 50 !important;
-      font-size: 45px;
+      font-size: 42px;
 
     }  
     .btspace {
