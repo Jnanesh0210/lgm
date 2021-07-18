@@ -429,7 +429,7 @@ nav a:hover {
 
                                                      /* news letter sign up */                        
 .newsbg{
-  background-image: url("/img/newsbg.png");
+  background-image: url("img/newsbg.png");
   background-repeat:no-repeat;
   background-size:cover;
   width: 100%;
@@ -446,8 +446,8 @@ nav a:hover {
   font-family: sans-serif;
   font-size: 20px;
   font-weight: 300;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
 }             
 
 .search {
@@ -482,7 +482,7 @@ nav a:hover {
                                                       
 
                                                     /* blogs*/ 
-.blg{  margin-bottom: 2rem !important;}
+.blg{ margin-bottom: 2rem !important;}
 
 .blg:hover{
   transform:scale3d(1.02,1.02,1.02);
